@@ -1,3 +1,14 @@
+# Upcoming meetings
+12/28/2023: CANCELLED  
+1/4/2023: STATs (copper, black, canary) present brief overviews of available data  
+1/11/2023: Jason Edwards (PSMFC) will join to discuss his [ongoing work](https://docs.google.com/document/d/1oSgknl4glusi_2JrdmwrW8JRO1vLBiOO-dRyYkwL9g0/edit#heading=h.4l6dihql4ywp) with the RecFIN database  
+1/18/23: CANCELLED - CDFW and NMFS conflicts  
+1/25/2023: Canary rockfish commercial and recreational dynamics, led by CDFW  
+
+
+
+
+
 # california-data
 The repository developed in 2022 in preparation for the 2023 stock assessment cycle, out of conversations between National Marine Fisheries Service (NMFS) stock assessment scientists and California Department of Fish and Widlife (CDFW) staff to improve the understanding of CDFW data for stock assessments.  The repo was migrated from a GDrive ccount in Dec 2022.  The POCs for NMFS and CDFW for the 2023 cycle remain in the GDrive. 
 
