@@ -1,6 +1,6 @@
 # Upcoming meetings
 12/28/2023: CANCELLED  
-1/4/2023: STATs (copper, black, canary) present brief overviews of available data (E.J. out of office Jan 2-6)
+1/4/2023: STATs (copper, black, canary) present brief overviews of available data (E.J. out of office Jan 2-6)  
 1/11/2023: Jason Edwards (PSMFC) will join to discuss his [ongoing work](https://docs.google.com/document/d/1oSgknl4glusi_2JrdmwrW8JRO1vLBiOO-dRyYkwL9g0/edit#heading=h.4l6dihql4ywp) with the RecFIN database  
 1/18/23: CANCELLED - CDFW and NMFS conflicts  
 1/25/2023: Canary rockfish commercial and recreational dynamics, led by CDFW  
