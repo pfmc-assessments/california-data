@@ -4,6 +4,7 @@
 1/11/2023: Jason Edwards (PSMFC) will join to discuss his [ongoing work](https://docs.google.com/document/d/1oSgknl4glusi_2JrdmwrW8JRO1vLBiOO-dRyYkwL9g0/edit#heading=h.4l6dihql4ywp) with the RecFIN database  
 1/18/23: CANCELLED - CDFW and NMFS conflicts  
 1/25/2023: Canary rockfish commercial and recreational dynamics, led by CDFW  
+2/1/2023: CANCELLED - pre-assessment data workshops for copper, canary, and black rockfishes
 
 
 
