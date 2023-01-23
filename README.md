@@ -4,6 +4,7 @@
 1/25/2023: Black rockfish data overview (E.J.) and Canary rockfish commercial and recreational dynamics, led by CDFW  
 2/1/2023: CANCELLED - pre-assessment data workshops for copper, canary, and black rockfishes
 2/8/2023: Topic TBD (open to suggestions)
+2/15/2023: Topic TBD
 
 
 
