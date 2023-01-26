@@ -1,6 +1,6 @@
 # Upcoming meetings
-2/1/2023: CANCELLED - pre-assessment data workshops for copper, canary, and black rockfishes
-2/8/2023: Pre-assessment workshop debrief
+2/1/2023: CANCELLED - pre-assessment data workshops for copper, canary, and black rockfishes     
+2/8/2023: Pre-assessment workshop debrief     
 2/15/2023: Topic TBD
 
 
