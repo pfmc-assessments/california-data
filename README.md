@@ -1,10 +1,14 @@
 # Upcoming meetings
+2/1/2023: CANCELLED - pre-assessment data workshops for copper, canary, and black rockfishes
+2/8/2023: Pre-assessment workshop debrief
+2/15/2023: Topic TBD
+
+
+# Past meetings
 1/11/2023: Jason Edwards (PSMFC) will join to discuss his [ongoing work](https://docs.google.com/document/d/1oSgknl4glusi_2JrdmwrW8JRO1vLBiOO-dRyYkwL9g0/edit#heading=h.4l6dihql4ywp) with the RecFIN database  
 1/18/23: CANCELLED - CDFW and NMFS conflicts  
 1/25/2023: Black rockfish data overview (E.J.) and Canary rockfish commercial and recreational dynamics, led by CDFW  
-2/1/2023: CANCELLED - pre-assessment data workshops for copper, canary, and black rockfishes
-2/8/2023: Topic TBD (open to suggestions)
-2/15/2023: Topic TBD
+
 
 
 
