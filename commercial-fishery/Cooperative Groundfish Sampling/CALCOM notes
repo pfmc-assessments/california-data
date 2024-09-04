@@ -1,8 +1,9 @@
-Nominal
+Nominal: "used when  either tha landing is farily small or there is good reason to believe that it is pretty much a single species stratum, or if there are no reasonable strata to borrow from" NOAA-TM-NMFS-SWFSC-240
 
-Actual
 
-Borrow T-1
+Actual: "if a stratum has been sampled, then the stratum is coded as actual...If the stratum has been sampled in a different quarter, then the program determines which quarter to use. The program looks at the nearest quarter and selects the one with the most samples. This is recorded and the stratum is coded as Actual and stored in the scratch file. 
+
+Borrow: "If the user chooses to borrow a composition they are asked what port and market category to use. The user cannot borrow from a different gear, and, as previously noted, age/length compositions are not stratified by quarter. The rule is that age/length compositions can be borrowed only from adjacent ports. The user is free to borrow from different market categories based on port biologist input and personal experience." ..."The user should never select a port complex to borrow from which is more than one port complex away. "
 
 
 Pearson, Donald E and Glenn Almany. 1995.  Effectiveness of California’s Rockfish Port Sampling Program. NOAA-TM-NMFS-SWFSC-218. https://repository.library.noaa.gov/view/noaa/6217 
