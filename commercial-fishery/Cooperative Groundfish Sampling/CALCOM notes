@@ -16,3 +16,22 @@ Pearson, Donald E., Brenda Erwin, and Meisha Key. 2008. Reliability of Californi
 Ralston, Steven E., Donald E. Pearson, John C. Field, and Meisha Key. 2010. Documentation of California Catch Reconstruction Project. NOAA-TM-NMFS-SWFSC-461.
 
 Sen, A.R. 1986. Methodological problems in sampling commercial rockfish landings. Fish Bull. 84(2):409-421.
+
+
+
+CALCOM source code definitions prior to 2003
+
+The below source codes do not reflect methods currently in use, e.g. we do not borrow across gear groups. Years after 2002 will only include Actual, Nominal, and Borrowed T-1 or T-2 (borrowing from one or two ports away, not from alternate gears). Note that borrowing never occurs across Pt. Conception. For example, Santa Barbara borrows from the LA complex first, then the SD complex, but never from Morro Bay.
+
+Source codes:
+Borrowed T-1 = Borrowed one port away and/or alternate trawl gear,
+Borrowed T-2 = Borrowed 2 ports away and possible from an alternate trawl gear,
+Borrowed T-3 = Borrowed from a 3 year average composition,
+Borrowed T-4 = Borrowed from a 3 year composition and a different port.
+Borrowed T-5 = 2 port complexes away using a 3 year interval.
+Borrowed T-6 = same port complex but a 3 year interval one up, or one down from the interval the actual landing is in.
+Borrowed T-7 = used for Southern California only from 1978-1985 where borrowing used 1986-1991 samples.
+Borrowed T-8 = borrowed from a different 3 year interval and 2 port complexes away.
+
+If “(a)” in the source column appended to another source code, it indicates the landings were based on apportioning of unknown gear.
+All borrowing is recorded in the COMP_EXPAND_DOCS table, if you want to investigate how estimates were derived for a given stratum.
