@@ -1,3 +1,11 @@
+**April 2025 updates**
+*Historical Regulations*
+- For rockfishes there was a 15-fish bag limit in place at least as far back as 1997, and likely earlier than that.
+- This 15-fish rockfish bag limit was within the California general daily bag limit of 20-fish per day.
+- The first sub-bag limit for the rockfishes was a 3-fish limit for bocaccio implemented in 1998.
+
+
+
 **Recreational Data Meeting November 16, 2022 Agenda**
 
 *California Recreational Fisheries Surveys (CRFS) 101*
